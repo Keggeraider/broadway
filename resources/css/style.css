@@ -20,12 +20,12 @@ h1 nav {
   background-color: transparent;
 }
 
-h2.process {
+h2#process {
   font-size: 32px;
   font-weight: bold;
 }
 
-h2.designed {
+h2#designed {
   font-size: 23px;
   font-weight: bold;
   color: white;
