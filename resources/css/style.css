@@ -51,6 +51,7 @@ a {
 
 footer p {
   float: left;
+  padding-right: 5px;
 }
 
 footer nav {
