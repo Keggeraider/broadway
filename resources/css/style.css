@@ -7,7 +7,7 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: url("./resources/css/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png")
 }
 
 h1 nav {
@@ -24,6 +24,7 @@ h2.designed {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  ackground-image: url("./resources/images/the-flatiron-building.png")
 }
 
 h3 {
@@ -36,4 +37,12 @@ footer {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+a {
+  color: white;
+}
+
+footer.p {
+  width: 16%;
 }
