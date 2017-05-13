@@ -54,6 +54,7 @@ footer p {
 }
 
 footer nav {
+  background-color: transparent;
   float: left;
   width: 84%;
 }
