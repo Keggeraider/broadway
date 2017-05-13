@@ -49,17 +49,7 @@ a {
   color: white;
 }
 
-#footer {
-  background-color: dimgray;
-}
 footer p {
-  height: 100%;
   float: left;
-  padding-right: 5px;
-}
-
-footer nav {
-  background-color: dimgray;
-  float: left;
-  width: 84%;
+  padding-right: 3px;
 }
