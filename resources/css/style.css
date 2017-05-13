@@ -45,11 +45,11 @@ footer {
   font-size: 11px;
   color: white;
   width: 100%;
-  background-color: dimgray;
+
 }
 
 footer p {
-  width: 10px;
+  background-color: dimgray;
   float: left;
   padding-right: 3px;
 }
