@@ -11,11 +11,13 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  background-color: transparent;
 }
 
 h1 nav {
   font-size: 18px;
   color: white;
+  background-color: transparent;
 }
 
 h2.process {
