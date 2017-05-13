@@ -41,14 +41,14 @@ a {
   color: white;
 }
 
-footer p {
-  float: left;
-  padding-right: 3px;
-}
-
 div.footer {
   font-size: 11px;
   color: white;
   width: 100%;
   background-color: dimgray;
+}
+
+footer p {
+  float: left;
+  padding-right: 3px;
 }
