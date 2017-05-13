@@ -3,7 +3,7 @@ html {
   font-family: Helvetica;
 }
 
-div#home {
+#home {
   background-image: url("./resources/images/the-flatiron-building.png")
 }
 
@@ -48,7 +48,7 @@ a {
 }
 
 footer p {
-  width: 16%;
+  width: 5%;
   float: left;
 }
 
