@@ -37,14 +37,6 @@ h3 {
   font-weight: bold;
 }
 
-footer.footer {
-  font-size: 11px;
-  color: white;
-  text-align: left;
-  width: 100%;
-  background-color: dimgray;
-}
-
 a {
   color: white;
 }
@@ -52,4 +44,12 @@ a {
 footer p {
   float: left;
   padding-right: 3px;
+}
+
+div.footer {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  width: 100%;
+  background-color: dimgray;
 }
