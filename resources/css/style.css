@@ -40,7 +40,6 @@ h3 {
 footer {
   font-size: 11px;
   color: white;
-  background-color: dimgray;
   text-align: left;
   width: 100%;
 }
@@ -50,12 +49,13 @@ a {
 }
 
 footer p {
+  background-color: dimgray;
   float: left;
   padding-right: 5px;
 }
 
 footer nav {
-  background-color: transparent;
+  background-color: dimgray;
   float: left;
   width: 84%;
 }
