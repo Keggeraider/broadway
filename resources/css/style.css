@@ -49,6 +49,7 @@ div.footer {
 }
 
 footer p {
+  width: 10px;
   float: left;
   padding-right: 3px;
 }
