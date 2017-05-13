@@ -48,8 +48,11 @@ a {
   color: white;
 }
 
-footer p {
+#footer {
   background-color: dimgray;
+}
+footer p {
+  height: 100%;
   float: left;
   padding-right: 5px;
 }
