@@ -40,16 +40,19 @@ footer {
   color: white;
   background-color: dimgray;
   text-align: left;
+  width: 100%;
 }
 
 a {
   color: white;
 }
 
-footer.p {
+footer p {
   width: 16%;
+  float: left;
 }
 
-footer.nav {
+footer nav {
+  float: left;
   width: 84%;
 }
